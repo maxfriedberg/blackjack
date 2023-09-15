@@ -83,6 +83,8 @@ pairs_chart = {
 playerHands = []
 dealerHand = []
 
+#need function to sum hands
+
 
 def playHand(cards_object):
     playerCard1 = cards_object.Shoe.pop()
