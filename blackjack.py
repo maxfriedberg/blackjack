@@ -34,6 +34,11 @@ cards = Cards(6)
 #Dealer stands on soft 17
 #3-2 payoff for BJ
 
+#attribute 4 arrays to player to respresent max number of hands
+#deal to player and dealer
+
+#if split, move to next array, else next dealt
+
 
 
 
