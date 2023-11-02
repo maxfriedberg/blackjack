@@ -24,6 +24,8 @@ class Cards:
                 self.Shoe.append('A')
         random.shuffle(self.Shoe)
 
+    def deal(self):
+        return self.Shoe.pop()
         
 
     Shoe = []
@@ -34,11 +36,38 @@ cards = Cards(6)
 #Dealer stands on soft 17
 #3-2 payoff for BJ
 
-#attribute 4 arrays to player to respresent max number of hands
-#deal to player and dealer
+#play hand (my card 1, dealer downcard, my card 2, dealer upcard)
 
-#if split, move to next array, else next dealt
+settled = 0
+
+while(settled != 1):
+
+    playerHands = []
+    phand = []
+    dhand = []
+
+    phand.append(cards.deal())
+    dhand.append(cards.deal())
+    phand.append(cards.deal())
+    dealerUpcard = cards.deal()
+    dhand.append(dealerUpcard)
+
+    playerHands.append(phand)
+
+    move = make_move(phand, len(playerHands), dealerUpcard)
+
+    if move == "Stand":
+        print(move)
+    elif move == "Hit":
+        print(move)
+    elif move == "Split":
+        print(move)
+    else:
+        print(move)
 
 
 
+print(playerHands)
+print(dealerUpcard)
+print(move)
 

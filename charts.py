@@ -14,6 +14,7 @@ hard_chart = {
     17: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     18: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     19: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    20: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     20: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
 }
 
@@ -33,6 +34,7 @@ hard_chart_no_doubles = {
     17: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     18: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     19: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    20: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     20: {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
 }
 
@@ -45,6 +47,7 @@ soft_chart = {
     "A, 7": {"2": "Stand", "3": "Double", "4": "Double", "5": "Double", "6": "Double", "7": "Stand", "8": "Stand", "9": "Hit", "10": "Hit", "A": "Hit"},
     "A, 8": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     "A, 9": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    "A, 10": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     "2, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Double", "6": "Double", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "3, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Double", "6": "Double", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "4, A": {"2": "Hit", "3": "Hit", "4": "Double", "5": "Double", "6": "Double", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
@@ -52,7 +55,8 @@ soft_chart = {
     "6, A": {"2": "Hit", "3": "Double", "4": "Double", "5": "Double", "6": "Double", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "7, A": {"2": "Stand", "3": "Double", "4": "Double", "5": "Double", "6": "Double", "7": "Stand", "8": "Stand", "9": "Hit", "10": "Hit", "A": "Hit"},
     "8, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
-    "9, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
+    "9, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    "10, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
 }
 
 soft_chart_no_doubles = {
@@ -64,6 +68,7 @@ soft_chart_no_doubles = {
     "A, 7": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Hit", "10": "Hit", "A": "Hit"},
     "A, 8": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     "A, 9": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    "A, 10": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
     "2, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Hit", "6": "Hit", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "3, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Hit", "6": "Hit", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "4, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Hit", "6": "Hit", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
@@ -71,7 +76,8 @@ soft_chart_no_doubles = {
     "6, A": {"2": "Hit", "3": "Hit", "4": "Hit", "5": "Hit", "6": "Hit", "7": "Hit", "8": "Hit", "9": "Hit", "10": "Hit", "A": "Hit"},
     "7, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Hit", "10": "Hit", "A": "Hit"},
     "8, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
-    "9, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
+    "9, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"},
+    "10, A": {"2": "Stand", "3": "Stand", "4": "Stand", "5": "Stand", "6": "Stand", "7": "Stand", "8": "Stand", "9": "Stand", "10": "Stand", "A": "Stand"}
 }
 
 pairs_chart = {
