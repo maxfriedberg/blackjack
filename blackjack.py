@@ -65,6 +65,8 @@ while(settled != 1):
     else:
         print(move)
 
+    settled = settled + 1
+
 
 
 print(playerHands)
